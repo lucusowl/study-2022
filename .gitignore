@@ -1,0 +1,6 @@
+data/
+*.pdf
+
+test/
+*.log
+
