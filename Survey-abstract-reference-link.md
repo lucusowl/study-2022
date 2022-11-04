@@ -1,5 +1,6 @@
 ## Keyword: eeg, interface
-1.	[ ] An EEG-based brain-computer interface for cursor control
+1.	[x] An EEG-based brain-computer interface for cursor control
+https://ieeexplore.ieee.org/document/802747
 https://www.sciencedirect.com/science/article/abs/pii/001346949190040B
 2.	[x] A comprehensive review of EEG-based brain–computer interface paradigms
 https://iopscience.iop.org/article/10.1088/1741-2552/aaf12e/meta
@@ -75,58 +76,72 @@ https://link.springer.com/chapter/10.1007/978-3-642-29746-5_4
 https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO201034049320199&oCn=JAKO201034049320199&dbt=JAKO&journal=NJOU00291370
 
 ## Keyword: eeg visualization
-28.	[ ] Novel methods for eeg visualization and visualization
+28.	[x] Novel methods for eeg visualization and visualization
+https://ieeexplore.ieee.org/document/8351688
 https://www.researchgate.net/profile/W-David-Hairston/publication/324961283_Novel_Methods_for_EEG_Visualization_and_Visualization/links/5c5210b2299bf12be3ee9ae1/Novel-Methods-for-EEG-Visualization-and-Visualization.pdf
-29.	[ ] Real-time modeling and 3D visualization of source dynamics and connectivity using wearable EEG
+29.	[x] Real-time modeling and 3D visualization of source dynamics and connectivity using wearable EEG
+https://ieeexplore.ieee.org/document/6609968
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4119601/
-30.	[ ] A User Study of Visualization Effectiveness Using EEG and Cognitive Load
+30.	[x] A User Study of Visualization Effectiveness Using EEG and Cognitive Load
 https://doi.org/10.1111/j.1467-8659.2011.01928.x
-31.	[ ] Deep learning with convolutional neural networks for EEG decoding and visualization
+https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8659.2011.01928.x
+31.	[x] Deep learning with convolutional neural networks for EEG decoding and visualization
 https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.23730
-32.	[ ] EEGLAB: an open source toolbox for analysis of single-trial EEG dynamics including independent component analysis
+32.	[x] EEGLAB: an open source toolbox for analysis of single-trial EEG dynamics including independent component analysis
+https://www.sciencedirect.com/science/article/pii/S0165027003003479
 https://escholarship.org/content/qt52k1t4sz/qt52k1t4sz.pdf
 
 ## Keyword: human eeg motor imagery movements
-33.	[ ] Validating deep neural networks for online decoding of motor imagery movements from EEG signals
+33.	[x] Validating deep neural networks for online decoding of motor imagery movements from EEG signals
 https://www.mdpi.com/1424-8220/19/1/210
-34.	[ ] Evaluation of time-domain features for motor imagery movements using FCM and SVM
+34.	[x] Evaluation of time-domain features for motor imagery movements using FCM and SVM
 https://doi.org/10.1109/JCSSE.2012.6261918
-35.	[ ] Brain-Computer Interface: Feature Extraction and Classification of Motor Imagery-Based Cognitive Tasks
+https://ieeexplore.ieee.org/document/6261918
+35.	[x] Brain-Computer Interface: Feature Extraction and Classification of Motor Imagery-Based Cognitive Tasks
 https://ieeexplore.ieee.org/document/9815460
 
 ## Keyword: eeg imagery movements
-36.	[ ] EEG datasets for motor imagery brain–computer interface
+36.	[x] EEG datasets for motor imagery brain–computer interface
 https://academic.oup.com/gigascience/article/6/7/gix034/3796323?login=false
-37.	[ ] Action observation and motor imagery in performance of complex movements: Evidence from EEG and kinematics analysis
+37.	[x] Action observation and motor imagery in performance of complex movements: Evidence from EEG and kinematics analysis
 https://www.sciencedirect.com/science/article/abs/pii/S0166432814008109
 
 ## Keyword: eeg imagery movements visualization
-38.	[ ] Classifying EEG signals preceding right hand, left hand, tongue, and right foot movements and motor imageries
+38.	[x] Classifying EEG signals preceding right hand, left hand, tongue, and right foot movements and motor imageries
 https://www.sciencedirect.com/science/article/abs/pii/S138824570800922X
-39.	[ ] 3D visualization of movements can amplify motor cortex activation during subsequent motor imagery
+39.	[x] 3D visualization of movements can amplify motor cortex activation during subsequent motor imagery
 https://doi.org/10.3389/fnhum.2015.00463
 40.	[ ] Visualization of sensorimotor areas involved in preparation for hand movement based on classification of μ and central β rhythms in single EEG trials in man
 https://doi.org/10.1016/0304-3940(94)90556-8
 https://www.sciencedirect.com/science/article/abs/pii/0304394094905568
-41.	[ ] Analysis of EEG for motor imagery based classification of hand activities
+41.	[x] Analysis of EEG for motor imagery based classification of hand activities
 https://www.academia.edu/download/60285801/2315ijbes0220190813-23948-o87tjp.pdf
 
 ## Keyword: trial eeg classification of movement intention
-42.	[ ] Exploration of computational methods for classification of movement intention during human voluntary movement from single trial EEG
+42.	[x] Exploration of computational methods for classification of movement intention during human voluntary movement from single trial EEG
+https://doi.org/10.1016%2Fj.clinph.2007.08.025
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154235/
 43.	[ ] Detection of movement intention from single-trial movement-related cortical potentials
+http://dx.doi.org/10.1088/1741-2560/8/6/066009
 https://iopscience.iop.org/article/10.1088/1741-2560/8/6/066009/meta
-44.	[ ] EEG-based online two-dimensional cursor control
+44.	[x] EEG-based online two-dimensional cursor control
+https://ieeexplore.ieee.org/abstract/document/5332722
 https://www.academia.edu/download/43770814/EEG-Based_Online_Two-Dimensional_Cursor_20160315-27376-7dgigs.pdf
-45.	[ ] Classifying Single Trial EEG: Towards Brain Computer Interfacing
+45.	[x] Classifying Single Trial EEG: Towards Brain Computer Interfacing
+https://proceedings.neurips.cc/paper/2001/hash/2d579dc29360d8bbfbb4aa541de5afa9-Abstract.html
 https://proceedings.neurips.cc/paper/2001/file/2d579dc29360d8bbfbb4aa541de5afa9-Paper.pdf
 
 ## Keyword: eeg movements visualization
-46.	[ ] Visualization of significant ERD/ERS patterns in multichannel EEG and ECoG data
+46.	[x] Visualization of significant ERD/ERS patterns in multichannel EEG and ECoG data
 https://www.sciencedirect.com/science/article/abs/pii/S1388245701006976
-47.	[ ] Asymmetric spatiotemporal patterns of event-related desynchronization preceding voluntary sequential finger movements: a high-resolution EEG study
+47.	[x] Asymmetric spatiotemporal patterns of event-related desynchronization preceding voluntary sequential finger movements: a high-resolution EEG study
 https://www.sciencedirect.com/science/article/pii/S1388245705000131
 
 ## Keyword: eeg interface visualization movements
-48.	[ ] EEG source analysis of visual motion imagery for application to brain-computer interface.
+48.	[x] EEG source analysis of visual motion imagery for application to brain-computer interface.
+https://www.academia.edu/44522476/EEG_SOURCE_ANALYSIS_OF_VISUAL_MOTION_IMAGERY_FOR_APPLICATION_TO_BRAIN_COMPUTER_INTERFACE?from=cover_page
 https://www.academia.edu/download/64966085/gbcic_2019_paper_22.pdf
+
+## Keyword: Visualization of sensorimotor areas movement based on classification of μ and central β rhythms
+49.	[x] Mu and Beta Rhythm Topographies During Motor Imagery and Actual Movements
+https://link.springer.com/article/10.1023/A:1023437823106
