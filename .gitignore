@@ -1,6 +1,6 @@
+resource*/
 data/
 *.pdf
 
 test/
 *.log
-
