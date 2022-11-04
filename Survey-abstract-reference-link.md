@@ -145,3 +145,17 @@ https://www.academia.edu/download/64966085/gbcic_2019_paper_22.pdf
 ## Keyword: Visualization of sensorimotor areas movement based on classification of μ and central β rhythms
 49.	[x] Mu and Beta Rhythm Topographies During Motor Imagery and Actual Movements
 https://link.springer.com/article/10.1023/A:1023437823106
+
+## Keyword: eeg 분석 분류 센서
+50.	[x] EEG 잡파 특성 분석The characteristic analysis of EEG artifacts
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART000922748
+https://koreascience.kr/article/CFKO200211921069325.pdf
+51.	[x] 뇌파측정기술(EEG)과 판별분석을 이용한 영상물의 키프레임 자동 분류 방안 연구
+https://doi.org/10.3743/KOSIM.2015.32.3.377
+52.	[x] 지속적인 뇌파 측정을 위한 센서 개발
+https://www.koreascience.or.kr/article/JAKO201508449473664.pdf
+
+## Keyword: neuroimaging interface bci
+53. [x] Neuroimaging Techniques for Brain Computer Interface
+https://doi.org/10.14257/ijbsbt.2015.7.4.21
+https://gvpress.com/journals/IJBSBT/vol7_no4/21.pdf
